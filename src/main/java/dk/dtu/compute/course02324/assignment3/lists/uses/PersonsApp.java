@@ -96,9 +96,7 @@ public class PersonsApp extends Application {
 
         stage.sizeToScene();
     }
-
     public static void main(String[] args) {
         launch(args);
     }
-
 }
